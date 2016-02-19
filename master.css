@@ -2,7 +2,7 @@ body{
     background-color: azure;
 }
 
-header{
+#titleHeader{
     height: 240px ;
     width: auto;
     background-color: orange;
@@ -54,5 +54,12 @@ ul{
     height: 60px;
     width: auto;
     background-color: cornflowerblue;
+
+}
+
+#blogArticle{
+    height:auto;
+    width: 500px;
+
 
 }
