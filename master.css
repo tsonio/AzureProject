@@ -1,3 +1,49 @@
 body{
     background-color: azure;
 }
+
+header{
+    height: 240px ;
+    width: auto;
+    background-color: orange;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+#blog{
+    padding-top: 20px;
+    padding-left: 80px;
+    margin-left: 120px;
+}
+
+#kot{
+    float: left;
+    height: 200px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    clear: bottom;
+}
+
+#menubar{
+    float: left;
+    background-color: aquamarine;
+}
+
+li a {
+    width: 80px;
+    height: 40px;
+    float: left;
+    background-color: bisque;
+    text-decoration: none;
+
+}
+
+#navigation{
+    height: 60px;
+    width: auto;
+    background-color: cornflowerblue;
+
+}
