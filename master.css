@@ -32,14 +32,23 @@ header{
     background-color: aquamarine;
 }
 
-li a {
+li  {
     width: 80px;
     height: 40px;
     float: left;
-    background-color: bisque;
+
     text-decoration: none;
 
 }
+
+li a {
+    text-decoration: none;
+}
+
+ul{
+    padding-top: 20px;
+}
+
 
 #navigation{
     height: 60px;
